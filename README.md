@@ -6,7 +6,7 @@ A single-header-file library containing a C++17 driver for the PAX
 - Compiler having c++17 capability. Examples:
   - Visual Studio >= 2017 (15.9.17)
   - gcc >= 7
-- Clang >= 5
+  - Clang >= 5
 - Doxygen >= 1.8.17 (for rendering documentation)
 
 ## OVERVIEW
